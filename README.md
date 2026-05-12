@@ -9,7 +9,7 @@ Projet académique consistant à développer un programme de devinette numériqu
 - La partie s'arrête en cas de succès ou après 10 échecs consécutifs.
 
 ## Prérequis
-- Java JDK 8 ou supérieur.
+- Java JDK 21
 
 ## Compilation et Exécution
 1. Ouvrez un terminal dans le dossier du projet.
